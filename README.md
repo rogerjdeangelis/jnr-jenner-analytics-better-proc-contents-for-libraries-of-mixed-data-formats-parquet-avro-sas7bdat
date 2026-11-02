@@ -2,6 +2,9 @@
 Jenner Analytics a better proc contents for libraries of mixed data formats parquet avro sas7bdat
     Jenner Analytics a better proc contents for libraries of mixed data formats parquet avro sas7bdat
 
+    Too long to post here
+    https://github.com/rogerjdeangelis/jnr-jenner-analytics-better-proc-contents-for-libraries-of-mixed-data-formats-parquet-avro-sas7bdat
+
     I expect this will be fixed.
 
     CONTENTS
